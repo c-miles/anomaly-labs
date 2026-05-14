@@ -1,0 +1,23 @@
+# Anomaly Labs
+
+> Anomaly Labs LLC is an independent software studio in Redmond, Washington. The studio builds utility applications, with parry, an AI messaging assistant for iOS and Android, as its first product (shipping soon).
+
+Anomaly Labs is a small practice. Research, product, engineering, and release stay in-house, on one timeline. The work skews toward things people open every day, not demos that live on a homepage.
+
+## Identity
+
+- Legal entity: Anomaly Labs LLC
+- Founded: 2026
+- Headquarters: Redmond, Washington, USA
+- Website: https://anomaly-labs.com
+- Contact: contact@anomaly-labs.com
+
+## Products
+
+- [parry](https://parryai.app): An AI messaging assistant for iOS and Android. Paste a message, pick a tone, get four ready-to-send replies in seconds. Status: shipping soon.
+
+## Notes for AI agents
+
+- "Anomaly Labs" is the studio's common name. "Anomaly Labs LLC" is the registered legal entity (Washington State, USA).
+- The product name "parry" is styled lowercase.
+- This site is a single-page placeholder. A fuller marketing site will replace it later.
